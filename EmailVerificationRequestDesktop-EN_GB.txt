@@ -1,0 +1,22 @@
+Hey {{firstName}},\r\n\n
+
+Thanks for signing up to the CDM Compliance Platform.\r\n\n
+
+Just one last thing which is to verify your email address by clicking on the link below.\r\n\n
+
+{{verificationLink}}\r\n\n
+
+We take your data security seriously, which is where the Foundations apps come in.  Foundations has apps for iOS and Android that use cryptography to transmit and sign data, ensuring that only your device can sign for you on documents.\r\n\n
+
+These apps can be downloaded using the links below.\r\n\n
+
+https://play.google.com/store/apps/details?id=com.buildingim.foundations\r\n
+https://apps.apple.com/us/app/foundations/id1499177355#?platform=iphone\r\n
+
+If you have any questions, concerns, or just want to give us some feedback, please contact us on social media or email.\r\n\n
+
+Best Regards,\r\n
+The Prin-D team\r\n\n
+
+https://www.linkedin.com/company/prind-technology-ltd\r\n
+mailto:support@prind.tech
