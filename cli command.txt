@@ -1,6 +1,8 @@
 
 aws ses create-template --cli-input-json file://EmailVerificationRequestDesktop-EN_GB_Template.json --profile prind --region eu-west-1
 aws ses create-template --cli-input-json file://EmailResetPasswordRequest-EN_GB_Template.json --profile prind --region eu-west-1
+aws ses create-template --cli-input-json file://EmailVerificationCompleteDesktop-EN_GB_Template.json --profile prind --region eu-west-1
 
 aws ses update-template --cli-input-json file://EmailVerificationRequestDesktop-EN_GB_Template.json --profile prind --region eu-west-1
 aws ses update-template --cli-input-json file://EmailResetPasswordRequest-EN_GB_Template.json --profile prind --region eu-west-1
+aws ses create-template --cli-input-json file://EmailVerificationCompleteDesktop-EN_GB_Template.json --profile prind --region eu-west-1
