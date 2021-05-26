@@ -2,7 +2,7 @@ Hey {{firstName}},\r\n\n
 
 Thanks for verifying your email address for the CDM Compliance Platform.\r\n\n
 
-We take your data security seriously, which is where the Foundations apps come in.  Foundations has apps for iOS and Android that use cryptography to transmit and sign data, ensuring that only your device can sign for you on documents.\r\n\n
+We take your data security seriously, which is where the Foundations app comes in. Foundations has an app for iOS and Android that use cryptography to transmit and sign data, ensuring that only your device can sign for you on documents.\r\n\n
 
 These apps can be downloaded using the links below.\r\n\n
 
